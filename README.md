@@ -1,4 +1,4 @@
-# Rain Prediction In Australia witt it rain tomorrow or not?+
+# Rain Prediction In Australia will it rain tomorrow or not?+
 
 My capstone project is created for St. Clair Collegecourse - M018, Data Analytics for  Business
 
