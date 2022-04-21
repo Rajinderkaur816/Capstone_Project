@@ -1,4 +1,4 @@
-# Rain Prediction In Australia will it rain tomorrow or not?+
+# RAINFALL PREDICTION USING CLASSIFICATION MODELS
 
 My capstone project is created for St. Clair Collegecourse - M018, Data Analytics for  Business
 
