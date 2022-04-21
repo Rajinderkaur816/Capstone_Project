@@ -32,7 +32,3 @@ ANs:- The distribution of the goal variable 'Will it rain tomorrow?' is represen
 Our dataset is Rainfall in Australia which includes the information about rain fall, temperature, wind speed regarding different locations in Australia. This dataset contains 145460 records and 23 attributes. This dataset is generated from Kaggle. Dataset contains information between the year 2007 to 2017 and which year having the maximum and minimum rainfall, speed of the wind, temperature about different locations. Our dataset contains enough missing values and for performing operation we removed those null values by dropping attributes and records. It has attributes with different datatypes, and we converted them into required pattern. 
 
 
-**Bold**
-
-- First point
-- Second point
