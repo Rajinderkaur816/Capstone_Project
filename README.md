@@ -17,9 +17,11 @@ Data visualization, Logistic regression model, K-Nearest Neighbors, Random Fores
 #### RESEARCH QUESTIONS:
 
 1.	Check yearly distribution of rainfall to find the years with highest and lowest rain fall.
+
 Ans:- I analysed the yearly distribution of rainfall. We can observe that the wettest years were 2010, 2011, and 2016, with about 33000mm of rain. The wettest years were 2007, 2008, and 2017, with rainfall ranging from 25000 to 30000 mm in 2009, 2012, 2013, 2014, and 2015.
 
 2.	Find out the degree of temperature that contains highest counts?
+ 
  The highest concentration of points of temperature is between 17 to 20 degrees Celsius.
  
 4.	Check the distribution of target attribute to evaluate will there be rain tomorrow or not?
